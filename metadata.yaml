@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '4820'
     url: http://www.gutenberg.org/2009/agents/4820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31087#A-Rebel-War-Clerk-s-Diary-at-the-Confederate-States-Capital
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-01-26'
 gutenberg_type: Text
