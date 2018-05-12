@@ -1,0 +1,33 @@
+_repo: A-Rebel-War-Clerk-s-Diary-at-the-Confederate-States-Capital_31087
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, J. B. (John Beauchamp)
+    aliases:
+    - Shortfield, Luke
+    - Jones, John Beauchamp
+    birthdate: 1810
+    deathdate: 1866
+    gutenberg_agent_id: '4820'
+    url: http://www.gutenberg.org/2009/agents/4820
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Jones, J. B. (John Beauchamp), 1810-1866 -- Diaries'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Confederate States of America -- History'
+title: A Rebel War Clerk's Diary at the Confederate States Capital
+url: http://www.gutenberg.org/ebooks/31087
